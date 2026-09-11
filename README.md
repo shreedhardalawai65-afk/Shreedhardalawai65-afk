@@ -1,79 +1,155 @@
-## Hi there 👋
-# Hi there 👋
+<div align="center">
 
-🎓 BE in Artificial Intelligence & Machine Learning  
-💻 Python Developer | AI/ML Enthusiast  
-🚀 Building real-world projects and continuously learning 🌱
+<a href="https://github.com/Shreedhardalawai65-afk">
+  <img src="./assets/profile-header.svg" width="100%" alt="Shreedhar Dalawai - AI/ML Developer">
+</a>
 
----
+<br><br>
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Building+Real-World+Applications;Always+Learning+%7C+Always+Building" alt="Typing Animation"/>
 
-- 🔭 I'm currently working on AI/ML and Python projects
-- 🌱 I'm currently learning Machine Learning, Deep Learning & Python
-- 💡 Interested in Artificial Intelligence and real-world applications
-- 🤝 Looking to collaborate on interesting projects
-- 💬 Ask me about Python, AI/ML and my projects
-- 📫 How to reach me: LinkedIn / Email
+<p>
+  <b>AI/ML Engineering Student</b> •
+  <b>Python Developer</b> •
+  <b>Project Team Leader</b>
+</p>
 
----
+<p>
+  <a href="https://www.linkedin.com/in/shreedhar-dalawai-17038834a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:shridhardalawai65@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-## 🛠️ Skills
-
-**Languages**
-- Python
-- SQL
-
-**AI / ML**
-- Machine Learning
-- Deep Learning
-- Data Analysis
-
-**Tools**
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 👋 About Me
 
-### 🤖 AI/ML Projects
-Building practical projects using Python and Machine Learning.
+I'm **Shreedhar Dalawai**, an Artificial Intelligence & Machine Learning engineering student focused on building practical, real-world applications.
 
-### 🐍 Python Projects
-Developing applications and solving real-world problems using Python.
+I enjoy working across the complete development cycle — from Python and machine learning models to responsive interfaces, databases, and project leadership.
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreedhardalawai65-afk&show_icons=true&theme=dark)
+- 🎓 **BE — Artificial Intelligence & Machine Learning**
+- 💻 **Python, Java, React.js**
+- 🤖 **Machine Learning & TensorFlow**
+- 👥 **Project Team Leader**
+- 🏆 **1st Place — Web App Creation Hackathon**
 
 ---
 
-## 🔥 Streak
+## 🧠 Technology Stack
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreedhardalawai65-afk&theme=dark)
+<div align="center">
+
+### Languages & Development
+
+<img src="https://skillicons.dev/icons?i=python,java,react,js" alt="Python Java React JavaScript"/>
+
+<br><br>
+
+### AI / ML & Data
+
+<img src="https://skillicons.dev/icons?i=tensorflow,numpy,pandas" alt="TensorFlow NumPy Pandas"/>
+
+<br><br>
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,jupyter,git,github" alt="SQL Firebase Jupyter Git GitHub"/>
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🚀 Selected Builds
 
-📧 **Email:** shridhardalawai65@gmail.com
+| Project | Focus | Technologies |
+|---|---|---|
+| 🛡️ **Phish Guard AI** | AI-powered phishing detection | React.js, TypeScript, TensorFlow.js |
+| 🐍 **Snake Game** | Interactive game project | Web / Python |
+| 🔐 **Security Toolkit** | Password & QR-code tools | TypeScript, React.js |
 
-🔗 **LinkedIn:** [Shreedhar Dalawai](https://www.linkedin.com/in/shreedhar-dalawai-17038834a/)
-<!--
-**shreedhardalawai65-afk/Shreedhardalawai65-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛡️ Phish Guard AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**An offline-first AI-powered phishing detection web application.**
+
+### ✨ Key Features
+
+- 🔍 Hybrid heuristic + machine-learning detection
+- 🤖 Random Forest, Neural Network & Support Vector Machine
+- 📊 Phishing risk classification: **Low / Medium / High**
+- 🎯 Confidence scores
+- 🖼️ OCR-based image analysis
+- 📈 Interactive dashboards
+- 📄 PDF report generation
+- 🕒 Phishing history tracking
+- 🔐 Secure password generator
+- 📱 QR code generator
+- 🔒 Local processing for improved privacy
+- ⚡ Responsive UI with real-time visualizations
+
+---
+
+## 🏆 Achievement
+
+<div align="center">
+
+### 🥇 1st Place — Web App Creation Hackathon
+
+**Vidya Samvardhak Mandal's Somashekhar R. Kothiwale Institute of Technology**
+
+</div>
+
+---
+
+## 📜 Certifications
+
+- ☁️ **Cloud with Microsoft Azure** — Vijesha IT Services LLP
+- 🐍 **Python Essentials 1** — Cisco Networking Academy
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shreedhardalawai65-afk&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreedhardalawai65-afk&theme=github-dark-blue&hide_border=true" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreedhardalawai65-afk&theme=github-compact&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 💡 Currently Learning
+
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Real-World AI Applications
+        ↓
+AI/ML Engineering 🚀
