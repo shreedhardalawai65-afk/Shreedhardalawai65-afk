@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 380">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#07111F"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="50%" stop-color="#A371F7"/>
+      <stop offset="100%" stop-color="#39D353"/>
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="380" rx="24" fill="url(#bg)"/>
+  <circle cx="180" cy="80" r="95" fill="#58A6FF" opacity=".10" filter="url(#blur)">
+    <animate attributeName="cx" values="180;1220;180" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1200" cy="300" r="100" fill="#A371F7" opacity=".09" filter="url(#blur)">
+    <animate attributeName="cy" values="300;70;300" dur="10s" repeatCount="indefinite"/>
+  </circle>
+
+  <path d="M0 320 C300 250 420 390 700 300 S1120 210 1400 290" fill="none"
+        stroke="url(#glow)" stroke-width="2" opacity=".35">
+    <animate attributeName="d"
+      values="M0 320 C300 250 420 390 700 300 S1120 210 1400 290;
+              M0 290 C280 370 470 220 700 310 S1120 360 1400 250;
+              M0 320 C300 250 420 390 700 300 S1120 210 1400 290"
+      dur="9s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="90" y="135" fill="#8B949E" font-family="monospace" font-size="22">
+    &lt;developer_profile /&gt;
+  </text>
+
+  <text x="90" y="205" fill="#F0F6FC" font-family="Arial, sans-serif"
+        font-size="64" font-weight="700">
+    SHREEDHAR DALAWAI
+  </text>
+
+  <text x="94" y="252" fill="#58A6FF" font-family="monospace" font-size="25">
+    AI/ML • PYTHON • INTELLIGENT SYSTEMS
+  </text>
+
+  <line x1="94" y1="286" x2="650" y2="286" stroke="url(#glow)" stroke-width="4">
+    <animate attributeName="x2" values="650;1000;650" dur="5s" repeatCount="indefinite"/>
+  </line>
+
+  <text x="94" y="325" fill="#8B949E" font-family="Arial, sans-serif" font-size="20">
+    Building real-world applications • Learning • Leading • Creating
+  </text>
+</svg>
